@@ -1,0 +1,15 @@
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\bin\Debug\net6.0\Project3.exe
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\bin\Debug\net6.0\Project3.deps.json
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\bin\Debug\net6.0\Project3.runtimeconfig.json
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\bin\Debug\net6.0\Project3.dll
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\bin\Debug\net6.0\Project3.pdb
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.csproj.AssemblyReference.cache
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.AssemblyInfoInputs.cache
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.AssemblyInfo.cs
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.csproj.CoreCompileInputs.cache
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.dll
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\refint\Project3.dll
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.pdb
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\Project3.genruntimeconfig.cache
+D:\Egitim\Ceng 1\1. Dönem\CME 1251 PROJECT BASED LEARNING I\PBL3\Project3\Project3\obj\Debug\net6.0\ref\Project3.dll
