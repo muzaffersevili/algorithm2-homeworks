@@ -1,0 +1,4 @@
+Ali,Ece,eceali@exm.net,35,M,8000,flight,1
+Fatma,Şahin,sahinfatma@exm.net,32,F,4000,maintenance,2
+Naim,İnanç,naiminanc98@gmael.org,39,M,6000,ticket,3
+Leyla,Yılmaz,leyla_yilmaz@hotexamp.us,46,F,99999,flight,4

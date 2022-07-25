@@ -1,0 +1,4 @@
+Muzaffer,Sevili,21,M,muzaffer@computer.org,1
+Ecem,Tunur,21,F,ecemtunur17@example.net,2
+Rana,Gül,21,F,ranagul17@exmple.com.tr,3
+Elif,Aras,22,F,elifaras@example.com,4
